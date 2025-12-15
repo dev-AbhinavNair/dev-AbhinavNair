@@ -1,16 +1,36 @@
 <h1 align="center">Hi 👋, I'm Abhinav Nair</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-
-<!-- - 🔭 I’m currently working on ... -->
+# About Me
 - 🌱 I’m currently learning MongoDB
 - 📫 How to reach me: **dev-abhinavnair@gmail.com**
 - 😄 Pronouns: he/him
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dev-abhinavnair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-abhinavnair" height="30" width="40" /></a>
-</p>
+##  Get In Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-abhinavnair/) 
+&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:dev.abhinavnair@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+## Languages
+![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![CSS](https://img.shields.io/badge/css-black?style=flat-square&logo=css3&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+## Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/node%20js-black?style=flat-square&logo=node.js&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Express](https://img.shields.io/badge/express-black?style=flat-square&logo=express&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Chart.js](https://img.shields.io/badge/chart%20js-black?style=flat-square&logo=chart.js&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![EJS](https://img.shields.io/badge/ejs-black?style=flat-square&logo=ejs&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+## Tools & Services
+![Postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Swagger](https://img.shields.io/badge/swagger-black?style=flat-square&logo=swagger&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![NPM](https://img.shields.io/badge/npm-black?style=flat-square&logo=npm&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![JWT](https://img.shields.io/badge/jwt-black?style=flat-square&logo=json-web-tokens&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Razorpay](https://img.shields.io/badge/razorpay-black?style=flat-square&logo=razorpay&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
 
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-abhnavnair&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>

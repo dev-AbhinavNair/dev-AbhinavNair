@@ -3,7 +3,7 @@
 
 ## About Me
 - 🌱 I’m currently learning MongoDB
-- 📫 How to reach me: **dev-abhinavnair@gmail.com**
+- 📫 How to reach me: **dev.abhinavnair@gmail.com**
 - 😄 Pronouns: he/him
 
 ##  Get In Touch

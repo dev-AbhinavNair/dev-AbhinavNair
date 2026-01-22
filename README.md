@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 ## About Me
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently working on a project
 - 📫 How to reach me: **dev.abhinavnair@gmail.com**
 - 😄 Pronouns: he/him
 

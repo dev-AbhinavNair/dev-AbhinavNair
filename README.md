@@ -31,7 +31,8 @@
 ![GitHub](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Razorpay](https://img.shields.io/badge/razorpay-black?style=flat-square&logo=razorpay&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
 <div align="center">
-## My Stats
+
+ ## My Stats
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abhinavnair&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="dev-abhinavnair's GitHub Stats" />
  
 </div>

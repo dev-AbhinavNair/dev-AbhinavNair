@@ -1,40 +1,55 @@
-<h1 align="center">Hi 👋, I'm Abhinav Nair</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhinav+Nair;Full-Stack+Developer;MERN+Stack+Enthusiast" alt="Typing SVG" />
+</div>
 
-## About Me
-- 🌱 I’m currently working on a project
-- 📫 How to reach me: **dev.abhinavnair@gmail.com**
-- 😄 Pronouns: he/him
+## 🧑‍💻 About Me
 
-##  Get In Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-abhinavnair/) 
-&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:dev.abhinavnair@gmail.com)
+A passionate full-stack developer from India who loves building scalable web apps and solving real-world problems with code.
 
-## Languages
-![C](https://img.shields.io/badge/c-black?style=flat-square&logo=c&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![CSS](https://img.shields.io/badge/css-black?style=flat-square&logo=css3&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-## Frameworks & Libraries
-![React.js](https://img.shields.io/badge/react%20js-black?style=flat-square&logo=react&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/node%20js-black?style=flat-square&logo=node.js&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Express](https://img.shields.io/badge/express-black?style=flat-square&logo=express&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-black?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Chart.js](https://img.shields.io/badge/chart%20js-black?style=flat-square&logo=chart.js&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![EJS](https://img.shields.io/badge/ejs-black?style=flat-square&logo=ejs&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-## Tools & Services
-![AWS](https://img.shields.io/badge/aws-black?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Swagger](https://img.shields.io/badge/swagger-black?style=flat-square&logo=swagger&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![NPM](https://img.shields.io/badge/npm-black?style=flat-square&logo=npm&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![JWT](https://img.shields.io/badge/jwt-black?style=flat-square&logo=json-web-tokens&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Razorpay](https://img.shields.io/badge/razorpay-black?style=flat-square&logo=razorpay&logoColor=white&labelColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+- 🔭 **Currently working on:** a full-stack project
+- 📫 **Reach me at:** dev.abhinavnair@gmail.com
+- 😄 **Pronouns:** he/him
 
- ## My Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dev-abhinavnair?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
- 
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-abhinavnair/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.abhinavnair@gmail.com)
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+
+### DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-%230C53E6.svg?style=for-the-badge&logo=razorpay&logoColor=white)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/dev-abhinavnair?cardType=github&theme=github-dark&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abhinavnair&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" height="180" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abhinavnair&theme=github-dark&hide_border=true&background=0D1117" height="180" />
 </div>

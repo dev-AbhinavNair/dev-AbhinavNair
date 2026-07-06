@@ -53,7 +53,7 @@ A passionate full-stack developer from India who loves building scalable web app
 
 <div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/dev-abhinavnair?cardType=github&theme=github-dark&bg_color=0D1117" height="180" />
-  <img src="https://grs.deno.dev/api/top-langs/?username=dev-abhinavnair&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dev-abhinavnair&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" height="180" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abhinavnair&theme=github-dark&hide_border=true&background=0D1117" height="180" />
 </div>

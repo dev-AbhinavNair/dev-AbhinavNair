@@ -14,6 +14,7 @@ A passionate full-stack developer from India who loves building scalable web app
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-abhinavnair/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.abhinavnair@gmail.com)
+[![Buy Me A Chai](https://img.shields.io/badge/Buy%20Me%20A%20Chai-%23FDD835.svg?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://dev-abhinavnair.github.io/buy-me-a-chai/)
 
 ## 🛠️ Tech Stack
 

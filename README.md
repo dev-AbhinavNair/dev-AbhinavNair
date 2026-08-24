@@ -6,7 +6,7 @@
 
 A passionate full-stack developer from India who loves building scalable web apps and solving real-world problems with code.
 
-- 🔭 **Currently working on:** a full-stack project
+- 🔭 **Currently working on:** Expanding MERN stack projects with unit testing and open-source contributions
 - 📫 **Reach me at:** dev.abhinavnair@gmail.com
 - 😄 **Pronouns:** he/him
 
@@ -34,6 +34,11 @@ A passionate full-stack developer from India who loves building scalable web app
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+
+### Testing & QA
+![Vitest](https://img.shields.io/badge/Vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
